@@ -42,6 +42,8 @@ The cohort logic was implemented in SQL through the following key steps:
 Full SQL logic can be found in the [`Cohort_Analysis.sql`](./Cohort_Analysis.sql) file.
 
 ## Interpreting the Report
+![image](https://github.com/user-attachments/assets/6182d77c-4ed5-4930-9cf4-f22e53612346)
+
 
 The top chart displays the absolute number of customers in each cohort who returned in a given month. The bottom heatmap shows the same data as retention percentages.
 
